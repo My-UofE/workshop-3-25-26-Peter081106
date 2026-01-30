@@ -19,5 +19,8 @@ public class NumbersInSpanish {
        else if (number==5){
         System.out.println("cinco");
        }
+       else{
+        System.out.println("Sorry I do not know that!");
+       }
     }
  }
